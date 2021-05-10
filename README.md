@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Stan804
+- 👀 I’m interested in coding and gaming
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on a Minecraft server project
+- 📫 How to reach me: Stan804#0001 on discord
